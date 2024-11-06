@@ -1,0 +1,3 @@
+Primul fisier text.
+Contine un exemplu simplu
+Modificare BugFix 1
